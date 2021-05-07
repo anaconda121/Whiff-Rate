@@ -1,0 +1,4 @@
+Michael - break_angle', 'break_length', 'break_y', 'ax', 'ay', 'az', 'sz_bot',
+Tanish - 'px', 'pz', 'pfx_x', 'pfx_z', 
+Griffin - vx0', 'vy0', 'vz0', 'x', 'x0', 'y', 'y0', 'z0'
+ 

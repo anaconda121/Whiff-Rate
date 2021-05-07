@@ -6,18 +6,21 @@ Determine what physical properties of baseball pitches thrown as strikes increas
 ## Timeline:
 <br> 
 1. EDA- 5/5 <br>
-2. Preprocessing- 5/8
-3. First try at modelling- 5/15
-4. Validation- 5/20
-5. Improve your model- 5/24
-6. Testing your model- 5/27
+2. Preprocessing- 5/8 <br>
+3. First try at modelling- 5/15 <br>
+4. Validation- 5/20 <br> 
+5. Improve your model- 5/24 <br>
+6. Testing your model- 5/27 <br>
 7. Presenting results- 5/27 <br>
+
 ## Concepts needed:
-Linear regression
-Logistic regression
-Decision tree
-Gradient boosting
-Splitting data for training/testing/validation
-EDA with pandas and feature engineering
+<br>
+1. Linear regression <br>
+2. Logistic regression <br>
+3. Decision tree <br>
+4. Gradient boosting <br>
+5. Splitting data for training/testing/validation <br>
+6. EDA with pandas and feature engineering <br>
+
 We are going to mostly use concepts we learned from class.
 

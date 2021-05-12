@@ -5,8 +5,8 @@ Determine what physical properties of baseball pitches thrown as strikes increas
 
 ## Timeline:
 <br> 
-1. EDA- 5/5 <br>
-2. Preprocessing- 5/8 <br>
+1. EDA- 5/5 Finished: 5/12 <br>
+2. Preprocessing- 5/8 Finished: 5/12 <br>
 3. First try at modelling- 5/15 <br>
 4. Validation- 5/20 <br> 
 5. Improve your model- 5/24 <br>

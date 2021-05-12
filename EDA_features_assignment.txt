@@ -1,4 +1,2 @@
-Michael - break_angle', 'break_length', 'break_y', 'ax', 'ay', 'az', 'sz_bot',
-Tanish - 'event_num', 'b_score'
+Tanish - break_angle', 'break_length', 'break_y', 'ax', 'ay', 'az', 'sz_bot',
 Griffin - vx0', 'vy0', 'vz0', 'x', 'x0', 'y', 'y0', 'z0'
- 

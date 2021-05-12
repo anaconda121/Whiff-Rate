@@ -1,2 +1,2 @@
-Tanish - break_angle', 'break_length', 'break_y', 'ax', 'ay', 'az', 'sz_bot',
+Tanish - 'ax', 'ay', 'az', 'sz_bot',
 Griffin - vx0', 'vy0', 'vz0', 'x', 'x0', 'y', 'y0', 'z0'

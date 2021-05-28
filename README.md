@@ -12,7 +12,11 @@ Objective: Predict whether the batter will swing and make contact or swing and m
 
 #### EDA
 
-EDA is in the file EDA.ipynb
+EDA is in EDA/EDA.ipynb
+
+#### Preprocessing
+
+Preprocessing is in Preprocessing/Preprocessing.ipynb
 
 #### Models
 

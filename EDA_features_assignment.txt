@@ -1,6 +1,2 @@
-Michael - break_angle', 'break_length', 'break_y', 'ax', 'ay', 'az', 'sz_bot',
-Tanish - 'event_num', 'b_score'
+Tanish - 'ax', 'ay', 'az', 'sz_bot',
 Griffin - vx0', 'vy0', 'vz0', 'x', 'x0', 'y', 'y0', 'z0'
-
-Done
-vx0, vy0, vz0, x, y, x0, y0, z0
